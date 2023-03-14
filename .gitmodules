@@ -1,0 +1,3 @@
+[submodule "login-feature"]
+	path = login-feature
+	url = https://github.com/saehfulamri/git-submodule-demo.git
